@@ -3,6 +3,8 @@
 <head>
  <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
  <title>Performing Maintenance</title>
+ <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+ <link rel="icon" href="/images/avicon.ico" type="image/x-icon">
  <style type="text/css">
  body { text-align: center; padding: 150px; }
  h1 { font-size: 40px; }
