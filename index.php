@@ -17,7 +17,7 @@
  <div id="article">
  <h1>Our site is getting a little tune up and some love.</h1>
  <div>
- <p><img src="images/turnkey-logo.png" /></p>
+ <p><img src="images/turnkey-logo.png" width="300" height="200" /></p>
  <p>We apologize for the inconvenience, but we're performing some maintenance. You can still contact us at <a href="mailto:support@turnkeyofficesolutions.com">support@turnkeyofficesolutions.com</a>. We'll be back up soon!</p>
  <p>&mdash; TurnkeyOfficeSolutions.com</p>
  </div>
